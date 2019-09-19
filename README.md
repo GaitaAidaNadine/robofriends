@@ -4,7 +4,8 @@ Robofriends web app in React.js
 
   Description:
   
-    Robofriends is an interactive web app that searches through your robot friends list in order to find their contact information and updates in real-time.
+    Robofriends is an interactive web app that searches through your robot friends list in order to find their 
+    contact information and updates in real-time.
 
 In order to get the project files, follow the next steps:
 
